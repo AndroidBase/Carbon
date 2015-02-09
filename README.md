@@ -18,7 +18,8 @@ Material Design implementation for Android 2.1 and newer. This is not the exact 
  - Divider, StatusBar and NavigationBar drag&drop view
  - dark and light themes in standard and AppCompat versions
  - a radial transition animation
-
+ - 
+![](https://github.com/AndroidBase/Carbon/blob/master/carbon.png)
 [![Alt text for your video](http://img.youtube.com/vi/YcTQ8a8sTpU/0.jpg)](http://www.youtube.com/watch?v=YcTQ8a8sTpU)
 
 ### Instalation
@@ -68,4 +69,3 @@ Carbon uses RenderScript for generating shadows. Gradle doesn't support rendersc
  - added dark and light themes
  - cleaned up a bit
  - the library is open-sourced as Carbon
-![](https://github.com/AndroidBase/Carbon/blob/master/carbon.png)
