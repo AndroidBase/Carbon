@@ -68,3 +68,4 @@ Carbon uses RenderScript for generating shadows. Gradle doesn't support rendersc
  - added dark and light themes
  - cleaned up a bit
  - the library is open-sourced as Carbon
+![](https://github.com/AndroidBase/Carbon/blob/master/carbon.png)
